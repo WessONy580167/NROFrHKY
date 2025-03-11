@@ -39,7 +39,6 @@ $query = "SELECT
             evaluation_answers ea ON e.evaluation_id = ea.evaluation_id
           INNER JOIN 
             question_list ql ON ea.question_id = ql.id
-          LEFT JOIN 
             (SELECT 
                  question_id,
                  SUM(CASE WHEN rate = 5 THEN 1 ELSE 0 END) AS rate_5_count,
