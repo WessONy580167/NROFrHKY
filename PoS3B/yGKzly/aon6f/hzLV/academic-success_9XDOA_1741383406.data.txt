@@ -300,7 +300,6 @@ while($row = mysqli_fetch_assoc($result)) {
     const brownianCtx = document.getElementById('brownianBridgeChart').getContext('2d');
     const brownianBridgeChart = new Chart(brownianCtx, {
         type: 'line',
-        data: brownianData,
         options: {
             scales: {
                 y: {
