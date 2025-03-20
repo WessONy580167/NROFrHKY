@@ -21,7 +21,6 @@ env:
     - SELENIUM_BROWSER=firefox
       #    - SELENIUM_BROWSER=edge
 
-addons:
   sauce_connect:
     direct_domains: firebase.com,firebaseio.com
 
