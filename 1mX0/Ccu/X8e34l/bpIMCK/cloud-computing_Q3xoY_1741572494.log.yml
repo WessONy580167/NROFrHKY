@@ -6,7 +6,6 @@ steps:
     image: yeasy/docker_practice:latest
     pull: if-not-exists # always never
     environment:
-      TZ: Asia/Shanghai
     commands:
       - docker-entrypoint.sh build
 
