@@ -14,7 +14,6 @@
 #       exclude: '^(?!agent-backend/src/)'
 #     - id: check-ast
 #       exclude: '^(?!agent-backend/src/)'
-#     - id: check-yaml
 #       exclude: '^(?!agent-backend/src/)'
 #     - id: check-toml
 #       exclude: '^(?!agent-backend/src/)'
