@@ -9,7 +9,6 @@ Global Retail Company (GRC) is a multinational retail organization with a 30-yea
 Currently, GRC employs more than 50,000 people worldwide, with thousands of supplier and distributor partnerships to optimize the sourcing and distribution of their products. GRC blends modern technology with a traditional store experience, offering customers omnichannel retail options through mobile apps, websites, and physical locations.
 
 GRC's on-premises IT infrastructure handles customer transactions, inventory management, e-commerce services, data analytics, and supply chain management. Over the years, GRC has heavily invested in proprietary software solutions and hardware tailored to its unique requirements. As the company's operations have grown, the pressure on its IT infrastructure has increased.
-
 ## Challenges
 
 - Increasing online sales and customer traffic have led to performance issues on GRC's e-commerce platform with occasional downtime during peak hours.
