@@ -1,5 +1,4 @@
 dist
 .git
-.nuxt
 .output
 node_modules
