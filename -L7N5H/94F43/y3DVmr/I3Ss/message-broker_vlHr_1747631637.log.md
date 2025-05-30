@@ -1,6 +1,5 @@
 # Adopters
 
-As SuperMQ Community grows, we'd like to keep track of SuperMQ adopters to grow the community, contact other users, share experiences and best practices.
 
 To accomplish this, we created a public ledger. The list of organizations and users who consider themselves as SuperMQ adopters and that **publicly/officially** shared information and/or details of their adoption journey(optional).
 Where users themselves directly maintain the list.
