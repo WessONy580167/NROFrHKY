@@ -6,7 +6,6 @@ Where users themselves directly maintain the list.
 If you are using SuperMQ, please consider adding yourself as an adopter with a brief description of your use case by opening a pull request to this file and adding a section describing your adoption of SuperMQ technology.
 
 **Please send PRs to add or remove organizations/users**
-
 ### Format
 
 ```
