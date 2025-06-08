@@ -9,7 +9,6 @@ If you are using SuperMQ, please consider adding yourself as an adopter with a b
 ### Format
 
 ```
-N: Name of user (company or individual)
 D: Short Use Case Description (optional)
 L: Link with further information (optional)
 T: Type of adaptation: Evaluation, Core Technology, Production Usage (optional)
